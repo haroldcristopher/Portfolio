@@ -8,11 +8,11 @@ function Header() {
   return (
     <div className=" absolute mt-5 flex w-full flex-wrap items-center justify-between gap-2 px-5 text-xs font-medium uppercase opacity-90 md:px-10">
       <Head>
-        <title>Cool Project</title>
+        <title>Harold Porfolio</title>
       </Head>
       <div className="  flex items-center gap-2 font-medium tracking-[4px]">
         <IoIosGlobe className=" text-xl" />
-        Trust me
+        AI Engineer
       </div>
       <ul className=" flex flex-wrap items-center gap-3 text-[11px] md:gap-10">
         {menus.map((menu, index) => {
@@ -21,8 +21,8 @@ function Header() {
               layout
               key={index}
               className={` ${
-                active == index && " border-b-2 border-b-yellow-500"
-              } inline-block cursor-pointer  border-b-yellow-500 transition duration-300 ease-in-out hover:border-b-2 hover:text-white`}
+                active == index && " border-b-2 border-b-green-500 text-3xl"
+              } inline-block cursor-pointer text-red-100 border-b-green-500 transition duration-500 ease-in-out hover:border-b-2 hover:text-red text-2xl`}
             >
               {menu}
             </motion.li>
@@ -40,10 +40,10 @@ function Header() {
 export default Header;
 
 const menus = [
-  "Home",
-  "Holdidays",
-  "Destinations",
-  "Flights",
-  "Offers",
+  "About me",
+  "Projects",
+  "Skills",
+  "Experiences",
+  "Resume",
   "Contacts",
 ];
