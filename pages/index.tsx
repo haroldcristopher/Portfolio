@@ -77,10 +77,10 @@ export default function Home() {
 const sliderData = [
   {
     img: "/1.png",
-    location: "Chatbot, GPT-4, LLMs, LangChain",
+    location: "UPDF AI Online",
     description:
       "The Most Powerful AI Assistant to Chat with PDF and Ask Anything Online",
-    title: "UPDF AI Online",
+    title: "Chatbot, GPT-4, LLMs, LangChain",
   },
   {
     img: "/2.png",
