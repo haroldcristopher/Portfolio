@@ -77,38 +77,38 @@ export default function Home() {
 const sliderData = [
   {
     img: "/1.png",
-    location: "Switzrerland Apls",
+    location: "Chatbot, GPT-4, LLMs, LangChain",
     description:
-      "The journey to Machu Picchu typically starts in the mountain city of Cusco, which was the capital city of the Inca Empire",
-    title: "SAINT ANTÖNEN",
+      "The Most Powerful AI Assistant to Chat with PDF and Ask Anything Online",
+    title: "UPDF AI Online",
   },
   {
     img: "/2.png",
-    title: "The Grand Canyon",
+    title: "DocsBot AI",
     description:
-      "The earth's geological history opens before your eyes in a mile-deep chasm",
-    location: "Arizona",
+      "Get instant answers for you, your customers, or your team with AI powered chatbots trained with your content and documentation.",
+    location: "ChatGPT, GPT-4, LangChain, RAG",
   },
   {
     img: "/3.png",
-    title: "Masai Mara",
+    title: "Bharat Bot",
     description:
-      "Wild animals in their natural environment, luxury safari lodges",
-    location: "Kenya",
+      "Your Everyday Chatbot Partner",
+    location: "ChatGPT, GPT-4, LLMs, LangChain",
   },
   {
     img: "/4.png",
-    title: "Angkor Wat",
+    title: "Your free AI messenger now with GPT",
     description:
-      "A stunning ancient jungle city with hundreds of intricately constructed temples",
-    location: "Cambodia",
+      "We connect you with the AI of GPT. Just launch the WebApp or add a Telegram/Whatsapp contact and ask anything you want to know. You're looking for advice, help, entertainment, a recipe or DIY. Ask the AI!",
+    location: "ChatGPT, GPT-4, LLMs, LangChain, RAG",
   },
   {
     img: "/7.png",
-    title: "Bali",
+    title: "Cognitive AI for Healthcare",
     description:
-      "Tropical beaches, volcano hikes, ancient temples, and friendly people",
-    location: "Indonesia",
+      "Juji powers cognitive AI assistants in the form of chatbots for telehealth.",
+    location: "ChatGPT, GPT-4, LLMs, LangChain, Hugging-Face",
   },
 ];
 
