@@ -1,10 +1,10 @@
-import React from "react";
+import React, { useState } from "react";
 import { motion } from "framer-motion";
 import { IoIosGlobe, IoMdSearch, IoMdPerson } from "react-icons/io";
 import Head from "next/head";
 
 function Header() {
-  const [active, setActive] = React.useState(0);
+  const [active, setActive] = React.useState(1);
   return (
     <div className=" absolute mt-5 flex w-full flex-wrap items-center justify-between gap-2 px-5 text-xs font-medium uppercase opacity-90 md:px-10">
       <Head>
