@@ -76,35 +76,49 @@ export default function Home() {
 
 const sliderData = [
   {
-    img: "/1.png",
+    img: "/01.PNG",
     location: "UPDF AI Online",
     description:
       "The Most Powerful AI Assistant to Chat with PDF and Ask Anything Online",
     title: "Chatbot, GPT-4, LLMs, LangChain",
   },
   {
-    img: "/2.png",
+    img: "/03.PNG",
     title: "DocsBot AI",
     description:
       "Get instant answers for you, your customers, or your team with AI powered chatbots trained with your content and documentation.",
     location: "ChatGPT, GPT-4, LangChain, RAG",
   },
   {
-    img: "/3.png",
+    img: "/02.PNG",
     title: "Bharat Bot",
     description:
       "Your Everyday Chatbot Partner",
     location: "ChatGPT, GPT-4, LLMs, LangChain",
   },
   {
-    img: "/4.png",
+    img: "/04.PNG",
     title: "Your free AI messenger now with GPT",
     description:
       "We connect you with the AI of GPT. Just launch the WebApp or add a Telegram/Whatsapp contact and ask anything you want to know. You're looking for advice, help, entertainment, a recipe or DIY. Ask the AI!",
     location: "ChatGPT, GPT-4, LLMs, LangChain, RAG",
   },
   {
-    img: "/7.png",
+    img: "/05.PNG",
+    title: "Bharat Bot5",
+    description:
+      "Your Everyday Chatbot Partner",
+    location: "ChatGPT, GPT-4, LLMs, LangChain5",
+  },
+  {
+    img: "/06.PNG",
+    title: "Your free AI messenger now with GPT6",
+    description:
+      "We connect you with the AI of GPT. Just launch the WebApp or add a Telegram/Whatsapp contact and ask anything you want to know. You're looking for advice, help, entertainment, a recipe or DIY. Ask the AI!",
+    location: "ChatGPT, GPT-4, LLMs, LangChain, RAG6",
+  },
+  {
+    img: "/07.PNG",
     title: "Cognitive AI for Healthcare",
     description:
       "Juji powers cognitive AI assistants in the form of chatbots for telehealth.",
